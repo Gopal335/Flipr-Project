@@ -275,9 +275,9 @@ function LandingPage({
               </p>
             </div>
             <div className="circle-stack">
-              <img src="./rounded image 1.webp" alt="Agent 1" className="circle large" />
-              <img src="./rounded image 2.png" alt="Agent 2" className="circle medium" />
-              <img src="../rounded image 3.jpg" alt="Agent 3" className="circle small" />
+              <img src="/rounded image 1.webp" alt="Agent 1" className="circle large" />
+              <img src="/rounded image 2.png" alt="Agent 2" className="circle medium" />
+              <img src="/rounded image 3.jpg" alt="Agent 3" className="circle small" />
             </div>
           </div>
         </section>
